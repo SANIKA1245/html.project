@@ -9,4 +9,4 @@ Sections: The webpage is divided into clear sections to enhance content organiza
 
 Modern Web Development Practices: Techniques such as using CSS Flexbox or Grid for layout, JavaScript for interactivity, and employing accessibility standards (e.g., ARIA roles) ensure the page is user-friendly. Optimizing the site for fast load times and using SEO best practices also enhance the user experience.
 
-The goal is to create an architecturally sound, easy-to-navigate, and visually appealing webpage that provides a great user experience across devices.
+The goal is to create an architecturally sound, easy-to-navigate, and visually appealing webpage that provides a great user experience across devices
