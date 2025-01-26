@@ -5,7 +5,7 @@ Responsive Design: This ensures that the webpage adapts to various screen sizes 
 
 Navigation Bar: This is a crucial element for guiding users around the site. It typically includes links to various sections of the webpage, such as "Home", "About", or "Contact". A responsive navigation bar might transform into a hamburger menu on smaller screens to save space.
 
-Sections: The webpage is divided into clear sections to enhance content organization. For example, one section could be for the introduction or about information, while the other could highlight services, portfolio, or contact details. Each section should be well-structured using HTML5 semantic tags like <section>, <article>, and <footer> for better accessibility and SEO.
+Sections: The webpage is divided into clear sections to enhance content organization. For example, one section could be for the introduction or about information, while the other could highlight services, portfolio, or contact details.
 
 Modern Web Development Practices: Techniques such as using CSS Flexbox or Grid for layout, JavaScript for interactivity, and employing accessibility standards (e.g., ARIA roles) ensure the page is user-friendly. Optimizing the site for fast load times and using SEO best practices also enhance the user experience.
 
